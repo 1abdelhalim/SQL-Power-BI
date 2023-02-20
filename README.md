@@ -8,4 +8,4 @@ Steps :
 + Updating DB using Update_AdventureWorksDW_Data.sql file
 + Cleaning the data SQL 
 + Save needed data in CSV format 
-+ Get the insights and make a dashboard using Power BI
++ Get the insights and make a [dashboard](https://github.com/1abdelhalim/SQL-Power-BI/blob/main/sales_overview.pdf) using Power BI
